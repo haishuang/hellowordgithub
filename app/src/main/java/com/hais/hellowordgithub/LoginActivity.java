@@ -19,6 +19,9 @@ public class LoginActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         Log.e("yyy","fcghjkl;");
+        for(int i=0;i<90;i++){
+            Log.e("yyy","fcghjkl;");
+        }
     }
 }
 

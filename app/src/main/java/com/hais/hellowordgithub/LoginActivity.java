@@ -23,7 +23,8 @@ public class LoginActivity extends Activity {
             Log.e("yyy","fcghjkl;");
         }
 
-
+    int i=0;
+        Log.e("ui",i+"");
     }
 }
 

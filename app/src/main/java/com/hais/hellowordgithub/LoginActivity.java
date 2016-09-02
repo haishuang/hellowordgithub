@@ -21,9 +21,9 @@ public class LoginActivity extends Activity {
         Log.e("yyy","fcghjkl;");
         for(int i=0;i<90;i++){
             Log.e("yyy","fcghjkl;");
-        }for(int i=0;i<90;i++){
-            Log.e("yyy","fcghjkl;");
         }
+
+
     }
 }
 
